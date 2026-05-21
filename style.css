@@ -99,12 +99,11 @@ hr{
 }
 .container p{
     padding-left: 20px;
-    font-size: 1.3em;
+    font-size: 0.7em;
     margin: 12px 0;
 }
 
 .container a{
-    font-weight: bold;
     color: white;
     text-decoration: underline;
 }
